@@ -1,0 +1,18 @@
+body {
+    background-color: silver!important;
+}
+
+body > .container {
+    height: 100vh;
+    background-color: #FFFFFF;
+}
+
+img{
+    max-height: 40vh;
+}
+
+.organizer {
+    border: 1px solid #000000;
+    border-radius: 20px;
+    height: 40vh;
+}
